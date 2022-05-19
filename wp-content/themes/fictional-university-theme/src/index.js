@@ -7,8 +7,10 @@ import MobileMenu from "./modules/MobileMenu"
 import HeroSlider from "./modules/HeroSlider"
 // Search import live search
 import Search from "./modules/Search"
+import MyNotes from "./modules/MyNotes"
 
 // Instantiate a new object using modules/classes
 const mobileMenu = new MobileMenu()
 const heroSlider = new HeroSlider()
 const search = new Search()
+const myNotes = new MyNotes()

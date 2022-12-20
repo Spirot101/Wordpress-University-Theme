@@ -1,3 +1,3 @@
-Welcome to my Wordpress University Theme
+Welcome to my custom Wordpress University Theme
 
 In progress...

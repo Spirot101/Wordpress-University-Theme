@@ -1,7 +1,7 @@
 <?php
 /*
-  Plugin Name: Our Word Filter plugin.
-  Description: Replace words.
+  Plugin Name: Word Filter plugin.
+  Description: This plugin can replace or filter words.
   Version: 1.0
   Author: Erik
   Author URI: www.google.com

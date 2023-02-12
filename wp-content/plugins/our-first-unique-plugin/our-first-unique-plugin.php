@@ -1,7 +1,7 @@
 <?php
 /*
-  Plugin Name: Our Test Plugin
-  Description: Amazing plugin.
+  Plugin Name: Word Count Plugin
+  Description: This plugin count the words, how many characters and how long a text will take to read.
   Version: 1.0
   Author: Erik
   Author URI: www.google.com
